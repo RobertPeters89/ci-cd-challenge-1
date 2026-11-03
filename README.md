@@ -1,5 +1,7 @@
 # Write a Workflow
 
+[![CI](https://github.com/RobertPeters89/ci-cd-challenge-1/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/RobertPeters89/ci-cd-challenge-1/actions/workflows/ci.yml)
+
 (difficulty: 🔥)
 
 `text-utils` is a small TypeScript library with tests, a type check and a build. Your job is to write the pipeline for it.
